@@ -1,8 +1,11 @@
 # Study Resources
 ## Useful Websites
 [] [Github Docs](https://docs.github.com/)
+
 [] [Markdown Guide](https://www.markdownguide.org/)
+
 [] [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+
 ## Tools I use
 - Microsoft Word
 - - Simple Design
