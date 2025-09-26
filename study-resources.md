@@ -31,7 +31,7 @@
 </ul>
 
 //////
-| Monday       |   Tuesday   |  Wednesday    | Thursday  | Friday |
-| :----        |    :---:    |    :----:     |  :----:   | ----:  |
-| MTH 140      | IPC 144     | OPS 102       |  APS 145  | MTH 102|
-| IPC 144      | OPS 102     | git diff      |  OPS 102  | CEP 146|
+| Monday    |   Tuesday   |  Wednesday  | Thursday  | Friday |
+| :----     |    :---:    |    :----:   |  :----:   | ----:  |
+| MTH 140   | IPC 144     | OPS 102     |  APS 145  | MTH 102|
+| IPC 144   | OPS 102     |    None     |  OPS 102  | CEP 146|
