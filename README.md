@@ -3,10 +3,10 @@
 Welcome to my academic portfolio for Essential Tooling For Programmers!
  
 ## About Me
-- Name: (Dominic Douglas)
-- Program: (Computer Programming)
-- Year: (2025 Semester 1)
-- Favorite Programming Language: (Python)
+- Name: Dominic Douglas
+- Program: Computer Programming
+- Year: 2025 Semester 1
+- Favorite Programming Language: Python
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
